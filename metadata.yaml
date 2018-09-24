@@ -1,5 +1,5 @@
 _repo: Members-of-the-Family_56717
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Dunn, Harvey
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '8312'
     url: http://www.gutenberg.org/2009/agents/8312
     wikipedia: http://en.wikipedia.org/wiki/Harvey_Dunn
+covers:
+- cover_type: archival
+  image_path: 56717-h/images/cover.jpg
 creator:
   author:
     agent_name: Wister, Owen
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/450
     wikipedia: http://en.wikipedia.org/wiki/Owen_Wister
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56717#Members-of-the-Family
 gutenberg_issued: '2018-03-10'
 gutenberg_type: Text
 identifiers:
