@@ -1,0 +1,32 @@
+_repo: Members-of-the-Family_56717
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Dunn, Harvey
+    alias: Dunn, H. T. (Harvey T.)
+    birthdate: 1884
+    deathdate: 1952
+    gutenberg_agent_id: '8312'
+    url: http://www.gutenberg.org/2009/agents/8312
+    wikipedia: http://en.wikipedia.org/wiki/Harvey_Dunn
+creator:
+  author:
+    agent_name: Wister, Owen
+    birthdate: 1860
+    deathdate: 1938
+    gutenberg_agent_id: '450'
+    url: http://www.gutenberg.org/2009/agents/450
+    wikipedia: http://en.wikipedia.org/wiki/Owen_Wister
+description: ''
+gutenberg_issued: '2018-03-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56717'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Members of the Family
+url: http://www.gutenberg.org/ebooks/56717
